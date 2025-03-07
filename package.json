@@ -3,7 +3,7 @@
     "nodemon": "^3.1.9"
   },
   "scripts": {
-    "start": "nodemon fibonacci.js",
+    "start": "nodemon factorial.js",
     "dev": "nodemon prime.js"
   }
 }

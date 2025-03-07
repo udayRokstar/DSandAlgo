@@ -40,4 +40,4 @@ const isPrime = num => {
     return num > 1;
   }
 
-  console.log
+  console.log(isPrime(9))

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "start": "node prime.js",
+    "dev": "nodemon prime.js"
+  }
+}

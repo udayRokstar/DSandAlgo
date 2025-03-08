@@ -3,7 +3,7 @@ Bio-O Guide
 1. Loop - O(n)
 2. nested loops - O(n^2)
 Input size reduced by half - O(logn)
-![alt text](image.png)
+![alt text](img/image.png)
 
 
 
